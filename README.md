@@ -56,7 +56,7 @@ customer-churn/
 
 1. 克隆项目仓库
 ```bash
-git clone https://github.com/yourusername/customer-churn.git
+git clone https://github.com/luka7620/customer-churn.git
 cd customer-churn
 ```
 
